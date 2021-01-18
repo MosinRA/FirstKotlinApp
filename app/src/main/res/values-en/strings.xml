@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstKotlinApp</string>
+    <string name="first">My first screen on Kotlin =)!</string>
+    <string name="press">Press me</string>
+    <string name="pressed_first">Pushed =)</string>
+    <string name="pressed_qual">Pressed</string>
+    <string name="its_all">Вот и все</string>
+</resources>
